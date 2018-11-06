@@ -20,7 +20,7 @@ Air Force,Christopher Musselmann,LB,3,6
 Air Force,Kadin Remsberg,RB,2,6
 Air Force,Chris Kane,TE,1,6
 Air Force,Micah Capra,DL,4,6
-Air Force,Ryan Darby,DL,4,6
+Air Force,Ryan Darby,DL,4,7
 Air Force,Cody Gessler,DL,4,7
 Air Force,Colin Marquez,OL,4,6
 Air Force,Joshua Stoner,RB,2,5
